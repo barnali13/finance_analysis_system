@@ -1,4 +1,4 @@
-# 💰 Finance Management System
+# 💰 Finance Analysis System
 
 A modern and user-friendly **Finance Management Dashboard** built using Django that helps users track, analyze, and manage their expenses efficiently.
 
